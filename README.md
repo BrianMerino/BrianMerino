@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @BrianMerino
-- 👀 I’m interested in learning more about Python and Web Development. 
-- 🌱 I’m currently learning more about Django and Python. 
-- 💞️ I’m looking to collaborate on any project involving web development
-- 📫 How to reach me LinkedIn: www.linkedin.com/in/brian-merino , email: brianmerino08@gmail.com , twitter: https://twitter.com/brianmerino_
+Hello, my name is Brian Merino and I am junior Computer Science student at the University of Tennessee Knoxville.
+Currently I would like to learn more about low-level programming.
+Some of interests include fitness and video games.
+- 📫 How to reach me -> LinkedIn: www.linkedin.com/in/brian-merino , email: brianmerino08@gmail.com , twitter: https://twitter.com/brianmerino_
 
