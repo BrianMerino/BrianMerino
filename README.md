@@ -13,6 +13,7 @@ Always building something — currently exploring Swift and iOS development
 
 ## Projects
 ### Exerkin – Social Fitness App
+https://github.com/Bhumir2503/Exerkin
 > *React Native · Firebase · Realm*  
 Track workouts, log exercises, and connect with friends. Includes photo uploads, workout history, and swipeable UI.
 
